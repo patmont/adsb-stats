@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[3]:
+# Code sourced from https://zulko.wordpress.com/2012/09/29/animate-your-3d-plots-with-pythons-matplotlib/
 
 import matplotlib.pyplot as plt
 from matplotlib import cm
